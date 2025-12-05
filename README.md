@@ -1,5 +1,5 @@
 # Not My Fish
-A simple fishing game about staying afloat, inspired by the times I've had too many fish to fry.
+A simple fishing game about staying afloat, inspired by the times I've had too many fish to fry. Created for an assignment in COMP_SCI 376: Game Design and Development, taught by [Professor Ian Horswill](https://github.com/ianhorswill/CS376-student) at Northwestern University.
 - **Version:** Unity 2022.3.47f1
   
 ## Instructions
